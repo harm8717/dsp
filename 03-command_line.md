@@ -21,15 +21,15 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > 1. Showing a Current Working directory path - pwd 
-> > 2. Creating a directory - mkdir [directoryname] 
-> > 3. Deleting a directory - rm -r (directoryname) 
-> > 4. Creating a file using 'touch' command - touch <filename> 
-> > 5. deleting a file - rm <filename> 
-> > 6. renaming a file - mv <filename> <newfilename> 
+> > 2. Creating a directory - mkdir directoryname 
+> > 3. Deleting a directory - rm -r directoryname 
+> > 4. Creating a file using 'touch' command - touch filename 
+> > 5. deleting a file - rm filename 
+> > 6. renaming a file - mv oldfilename newfilename 
 > > 7. listing hidden files - ls -a 
-> > 8. copying a file from one directory to another - cp <filepath1> <filepath2> 
+> > 8. copying a file from one directory to another - cp filepath1 filepath2 
 > > 9. listing files in long format - ls -l 
-> > 10. moving a file - mv <filename> <filepath> 
+> > 10. moving a file - mv filename filepath 
 ---
 
 
