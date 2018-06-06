@@ -44,9 +44,9 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> 'ls' - list all non hidden files in current directory >
+>> 'ls' - list all non hidden files in current directory 
 
-> > 'ls -a' - list all files in current directory
+>> 'ls -a' - list all files in current directory
 
 > > 'ls -l' - list non hidden  files in current directory in long format
 
