@@ -47,10 +47,15 @@ What do the following commands do:
 > > ls - list all non hidden files in current directory
 
 > > 'ls -a' - list all files in current directory
+
 > > 'ls -l' - list non hidden  files in current directory in long format
+
 > > 'ls -lh' - Lists non hidden files current directory in long format with file sizes human readable
+
 > > 'ls -lah' - Lists all files in current directory in long format with file sizes human readable
+
 > > 'ls -t' -  lists non hidden files in current directory sorted by time last modified
+
 > > 'ls -Glp' - lists non hidden files in long format with child paths shown colored coded 
 
 ---
