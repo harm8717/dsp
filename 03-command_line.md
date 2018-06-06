@@ -64,7 +64,15 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+>> 'ls -m' - displays the directory as a comma-seperated list
+
+>> 'ls -1' displays each entry on a 
+
+>> 'ls -lR' - displays long form of current directory and subdirectories
+
+>> 'ls -ro' - displays directory in reverse order in long form listing, but without the group
+
+>> 'ls -uq' - displays files by file access time and displays non printing characaters as ?
 
 ---
 
