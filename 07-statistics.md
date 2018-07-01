@@ -104,7 +104,7 @@ How do frequentist and Bayesian statistics compare?
 
 >> Frequentists would solve a given scenario by using long defined frequency distributions (for example, the probability of a coing flip is 0.5). This is a more "by the book" method of determining the probability of an event.
 
-In Bayseian statistics, probabilities are derived from using historical data points and conditional probabilities. An example would be looking at the probability of a coin flip including historical data of the person flipping the coin/the exact coin being used to conduct the experiment. A Bayseian would determine the problem by using all historical data points available.
+>> In Bayseian statistics, probabilities are derived from using historical data points and conditional probabilities. An example would be looking at the probability of a coin flip including historical data of the person flipping the coin/the exact coin being used to conduct the experiment. A Bayseian would determine the problem by using all historical data points available.
 
 ---
 
