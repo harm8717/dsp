@@ -86,14 +86,25 @@ Bayes' Theorem is an important tool in understanding what we really know, given 
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin? Assume we observe the following probabilities in the population: fraternal twin is 1/125 and identical twin is 1/300.  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> 
+"python"
+
+    both_boys_twin = 1/2
+    identical_twin = 1/300
+    both_boys_frat = 1/4
+    fraternal_twin = 1/125
+    prob_elvis_identical = (both_boys_twin * identical_twin) / ((both_boys_twin * identical_twin) + (both_boys_frat *     fraternal_twin))
+    print('The probability that Elvis had an identical twin is {}'.format(prob_elvis_identical))
+    # The probability that Elvis had an identical twin is 0.45454545454545453
 
 ---
 
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Frequentists would solve a given scenario by using long defined frequency distributions (for example, the probability of a coing flip is 0.5). This is a more "by the book" method of determining the probability of an event.
+
+In Bayseian statistics, probabilities are derived from using historical data points and conditional probabilities. An example would be looking at the probability of a coin flip including historical data of the person flipping the coin/the exact coin being used to conduct the experiment. A Bayseian would determine the problem by using all historical data points available.
 
 ---
 
