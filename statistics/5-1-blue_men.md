@@ -10,4 +10,6 @@
   
     low = dist.cdf(177.8)    
     high = dist.cdf(185.4)   
-    high-low
+    high-low 
+
+By subtracting the lower bound from the upper bound, we get the percentage of males that would meet the height requirement for Blue Moon group, which is about 34% of U.S. men. 
